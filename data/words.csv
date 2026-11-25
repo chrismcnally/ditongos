@@ -1,4 +1,4 @@
-﻿category,group,word,image,sound,question
+category,group,word,image,sound,question
 Ditongos,ão,cão,cao.svg,cao.mp3,C__
 Ditongos,ão,pão,pao.svg,pao.mp3,P__
 Ditongos,ão,mão,mao.svg,mao.mp3,M__
@@ -52,37 +52,37 @@ Palavras,pe,tapete,tapete.png,tapete.mp3,ta__te
 Palavras,pi,apito,apito.png,apito.mp3,a__to
 Palavras,pa,pato,pato.png,pato.mp3,__to
 Palavras,Simples,pato,pato.png,pato.mp3,p_to
-Palavras,Simples,mala,,mala.mp3,m_la
-Palavras,Simples,mapa,,mapa.mp3,m_pa
-Palavras,Simples,cama,,cama.mp3,c_ma
-Palavras,Simples,sapo,,sapo.mp3,s_po
-Palavras,Simples,gato,,gato.mp3,g_to
-Palavras,Simples,bola,,bola.mp3,b_la
-Palavras,Simples,mesa,,mesa.mp3,m_sa
+Palavras,Simples,mala,palavra-mala.jpg,mala.mp3,m_la
+Palavras,Simples,mapa,palavra-mapa.jpg,mapa.mp3,m_pa
+Palavras,Simples,cama,palavra-cama.jpg,cama.mp3,c_ma
+Palavras,Simples,sapo,palavra-sapo.jpg,sapo.mp3,s_po
+Palavras,Simples,gato,palavra-gato.jpg,gato.mp3,g_to
+Palavras,Simples,bola,palavra-bola.jpg,bola.mp3,b_la
+Palavras,Simples,mesa,palavra-mesa.jpg,mesa.mp3,m_sa
 Palavras,Simples,dedo,dedo.jpg,dedo.mp3,d_do
 Palavras,Simples,lata,lata.jpg,lata.mp3,l_ta
 Palavras,Simples,lupa,lupa.jpg,lupa.mp3,l_pa
-Palavras,Simples,pote,,pote.mp3,p_te
-Palavras,Simples,boca,,boca.mp3,b_ca
-Palavras,Simples,dado,,dado.mp3,d_do
-Palavras,Maiores,banana,,banana.mp3,b_nana
-Palavras,Maiores,tomate,,tomate.mp3,t_mate
-Palavras,Maiores,panela,,panela.mp3,p_nela
+Palavras,Simples,pote,palavra-pote.jpg,pote.mp3,p_te
+Palavras,Simples,boca,palavra-boca.jpg,boca.mp3,b_ca
+Palavras,Simples,dado,palavra-dado.jpg,dado.mp3,d_do
+Palavras,Maiores,banana,palavra-banana.jpg,banana.mp3,b_nana
+Palavras,Maiores,tomate,palavra-tomate.jpg,tomate.mp3,t_mate
+Palavras,Maiores,panela,palavra-panela.jpg,panela.mp3,p_nela
 Palavras,Maiores,tapete,tapete.png,tapete.mp3,t_pete
-Palavras,Maiores,menino,,menino.mp3,m_nino
-Palavras,Maiores,menina,,menina.mp3,m_nina
-Frases,Curtas,O gato mia.,,o-gato-mia.mp3,O g_to m_a.
-Frases,Curtas,O pato nada.,pato.png,o-pato-nada.mp3,O p_to n_da.
-Frases,Curtas,O sapo salta.,,o-sapo-salta.mp3,O s_po s_lta.
-Frases,Curtas,A Ana nada.,,a-ana-nada.mp3,A Ana n_da.
-Frases,Curtas,A Rita lê.,,a-rita-le.mp3,A R_ta lê.
-Frases,Curtas,O bebé bebe.,,o-bebe-bebe.mp3,O b_bé b_be.
-Frases,Curtas,A bola rola.,,a-bola-rola.mp3,A b_la r_la.
-Frases,Curtas,O cão come.,cao.svg,o-cao-come.mp3,O c_o c_me.
-Frases,Curtas,A mãe dá a mão.,mae.svg,a-mae-da-a-mao.mp3,A m_e d_ a m_o.
-Frases,Curtas,A menina pula.,,a-menina-pula.mp3,A m_nina p_la.
-Frases,Curtas,O gato come a papa.,,o-gato-come-a-papa.mp3,O g_to c_me a p_pa.
-Frases,Curtas,A avó vê a lua.,lua.jpg,a-avo-ve-a-lua.mp3,A av_ v_ a l_a.
-Frases,Curtas,O Leo bebe leite.,leo.jpg,o-leo-bebe-leite.mp3,O L_o b_be l_ite.
-Frases,Curtas,O Rui toca no piano.,rui.jpg,o-rui-toca-no-piano.mp3,O R_i t_ca no p_ano.
-Frases,Curtas,A bola cai no chão.,chao.svg,a-bola-cai-no-chao.mp3,A b_la c_i no ch_o.
+Palavras,Maiores,menino,palavra-menino.jpg,menino.mp3,m_nino
+Palavras,Maiores,menina,palavra-menina.jpg,menina.mp3,m_nina
+Frases,Curtas,O gato mia.,frase-o-gato-mia.jpg,o-gato-mia.mp3,O g_to m_a.
+Frases,Curtas,O pato nada.,frase-o-pato-nada.jpg,o-pato-nada.mp3,O p_to n_da.
+Frases,Curtas,O sapo salta.,frase-o-sapo-salta.jpg,o-sapo-salta.mp3,O s_po s_lta.
+Frases,Curtas,A Ana nada.,frase-a-ana-nada.jpg,a-ana-nada.mp3,A Ana n_da.
+Frases,Curtas,A Rita lê.,frase-a-rita-le.jpg,a-rita-le.mp3,A R_ta lê.
+Frases,Curtas,O bebé bebe.,frase-o-bebe-bebe.jpg,o-bebe-bebe.mp3,O b_bé b_be.
+Frases,Curtas,A bola rola.,frase-a-bola-rola.jpg,a-bola-rola.mp3,A b_la r_la.
+Frases,Curtas,O cão come.,frase-o-cao-come.jpg,o-cao-come.mp3,O c_o c_me.
+Frases,Curtas,A mãe dá a mão.,frase-a-mae-da-a-mao.jpg,a-mae-da-a-mao.mp3,A m_e d_ a m_o.
+Frases,Curtas,A menina pula.,frase-a-menina-pula.jpg,a-menina-pula.mp3,A m_nina p_la.
+Frases,Curtas,O gato come a papa.,frase-o-gato-come-a-papa.jpg,o-gato-come-a-papa.mp3,O g_to c_me a p_pa.
+Frases,Curtas,A avó vê a lua.,frase-a-avo-ve-a-lua.jpg,a-avo-ve-a-lua.mp3,A av_ v_ a l_a.
+Frases,Curtas,O Leo bebe leite.,frase-o-leo-bebe-leite.jpg,o-leo-bebe-leite.mp3,O L_o b_be l_ite.
+Frases,Curtas,O Rui toca no piano.,frase-o-rui-toca-no-piano.jpg,o-rui-toca-no-piano.mp3,O R_i t_ca no p_ano.
+Frases,Curtas,A bola cai no chão.,frase-a-bola-cai-no-chao.jpg,a-bola-cai-no-chao.mp3,A b_la c_i no ch_o.
