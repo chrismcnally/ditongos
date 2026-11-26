@@ -1,92 +1,91 @@
-category,group,word,image,sound,question
-Ditongos,ai,caixa,caixa.svg,caixa.mp3,c__xa
-Ditongos,ai,mais,mais.svg,mais.mp3,M__s
-Ditongos,ai,rainha,rainha.svg,rainha.mp3,r__nha
-Ditongos,ão,avião,aviao.svg,aviao.mp3,avi__
-Ditongos,ão,balão,balao.png,balao.mp3,bal__
-Ditongos,ão,cão,cao.svg,cao.mp3,C__
-Ditongos,ão,chão,chao.svg,chao.mp3,Ch__
-Ditongos,ão,coração,coracao.svg,coracao.mp3,corac__
-Ditongos,au,aula,aula.svg,aula.mp3,__la
-Ditongos,au,flauta,flauta.png,flauta.mp3,fl__ta
-Ditongos,au,mau,mau.svg,mau.mp3,M__
-Ditongos,ei,leite,leite.svg,leite.mp3,L__te
-Ditongos,ei,pulseira,pulseira.jpg,pulseira.mp3,puls__ra
-Ditongos,ei,rei,rei.svg,rei.mp3,R__
-Ditongos,ei,seis,seis.svg,seis.mp3,S__s
-Ditongos,eu,céu,ceu.svg,ceu.mp3,C__
-Ditongos,iu,caiu,caiu.png,caiu.mp3,ca__
-Ditongos,ões,limões,limoes.svg,limoes.mp3,lim__s
-Ditongos,oi,dois,dois.svg,dois.mp3,d__s
-Ditongos,oi,noite,noite.svg,noite.mp3,n__te
-Ditongos,oi,oito,oito.png,oito.mp3,__to
-Ditongos,ou,cenoura,cenoura.png,cenoura.mp3,cen__ra
-Ditongos,ou,ouriço,ourico.jpg,ourico.mp3,__riço
-Ditongos,p,partiu,partiu.jpg,pariu.mp3,part__
-Ditongos,p,pica-pau,pica-pau.jpg,pica-pau.mp3,pica-p__
-Ditongos,ui,Rui,rui.jpg,rui.mp3,R__
-Palavras,de,dedo,dedo.jpg,dedo.mp3,d_do
-Palavras,el,anel,anel.jpg,anel.mp3,an__
-Palavras,lu,lula,lula.jpg,lula.mp3,__la
-Palavras,m,macaco,macaco.png,macaco.mp3,m_caco
-Palavras,m,mãe,mae.svg,mae.mp3,M__
-Palavras,m,mala,mala2.png,mala.mp3,m_la
-Palavras,m,mama,mama.png,mama.mp3,ma__
-Palavras,m,mama,mama.png,mama.mp3,Mam_
-Palavras,m,mão,mao.svg,mao.mp3,M__
-Palavras,m,mapa,palavra-mapa.jpg,mapa.mp3,ma__
-Palavras,m,mar,mar.png,mar.mp3,__r
-Palavras,m,mel,mel.jpg,mel.mp3,m__
-Palavras,m,menina,palavra-menina.jpg,menina.mp3,m_nina
-Palavras,m,menino,palavra-menino.jpg,menino.mp3,m_nino
-Palavras,m,mesa,palavra-mesa.jpg,mesa.mp3,m_sa
-Palavras,m,meu,meu.svg,meu.mp3,M__
-Palavras,m,mimo,mimo.png,mimo.mp3,mi__
-Palavras,m,morcego,morcego.png,morcego.mp3,__rcego
-Palavras,m,mota,mota.png,mota.mp3,m_ta
-Palavras,b,banana,palavra-banana.jpg,banana.mp3,b_nana
-Palavras,p,panela,palavra-panela.jpg,panela.mp3,p_nela
-Palavras,t,tapete,tapete.png,tapete.mp3,t_pete
-Palavras,t,tomate,palavra-tomate.jpg,tomate.mp3,t_mate
-Palavras,ol,sol,sol.jpg,sol.mp3,s__
-Palavras,o,ovos,ovos.png,ovos.mp3,_v_s
-Palavras,p,pai,pai.svg,pai.mp3,P__
-Palavras,p,pão,pao.svg,pao.mp3,P__
-Palavras,p,pato,pato.png,pato.mp3,__to
-Palavras,p,pau,pau.svg,pau.mp3,P__
-Palavras,p,pé,pe.png,pe.mp3,p_
-Palavras,p,peixe,peixe.svg,peixe.mp3,P__xe
-Palavras,p,pião,piao.png,piao.mp3,P_ão
-Palavras,p,pneu,pneu.png,pneu.mp3,PN__
-Palavras,p,tapete,tapete.png,tapete.mp3,ta__te
-Palavras,pi,apito,apito.png,apito.mp3,a__to
-Palavras,b,boca,palavra-boca.jpg,boca.mp3,b_ca
-Palavras,b,bola,palavra-bola.jpg,bola.mp3,b_la
-Palavras,c,cama,cama.png,cama.mp3,ca__
-Palavras,d,dado,palavra-dado.jpg,dado.mp3,d_do
-Palavras,d,dedo,dedo.jpg,dedo.mp3,d_do
-Palavras,g,gato,palavra-gato.jpg,gato.mp3,g_to
-Palavras,l,lata,lata.jpg,lata.mp3,l_ta
-Palavras,l,lupa,lupa.jpg,lupa.mp3,l_pa
-Palavras,p,pato,pato.png,pato.mp3,p_to
-Palavras,p,pote,palavra-pote.jpg,pote.mp3,p_te
-Palavras,s,sapo,palavra-sapo.jpg,sapo.mp3,s_po
-Palavras,t,taça,taca.jpg,taca.mp3,__ça
-Palavras,t,tigre,tigre.png,tigre.mp3,__gre
-Palavras,a,azul,azul.jpg,azul.mp3,_zul
-Frases,Curtas,A Ana nada,frase-a-ana-nada.jpg,a-ana-nada.mp3,A Ana na__.
-Frases,Curtas,A avó vê a lua,frase-a-avo-ve-a-lua.jpg,a-avo-ve-a-lua.mp3,A avó vê a l__.
-Frases,Curtas,A bola cai no chão,frase-a-bola-cai-no-chao.jpg,a-bola-cai-no-chao.mp3,A b_la c_i no ch_o.
-Frases,Curtas,A bola salta,frase-a-bola-rola.jpg,a-bola-salta.mp3,A bo__ salta.
-Frases,Curtas,A mãe dá a mão,a-mae-da-a-mao.png,a-mae-da-a-mao.mp3,A mãe d_ a mão.
-Frases,Curtas,A menina pula,frase-a-menina-pula.jpg,a-menina-pula.mp3,A menin_ pula.
-Frases,Curtas,A Rita lê,frase-a-rita-le.jpg,a-rita-le.mp3,A R__a lê.
-Frases,Curtas,O Dino bebe,o-dino-bebe.jpg,o-dino-bebe.mp3,O Dino b_be.
-Frases,Curtas,O cão come,frase-o-cao-come.jpg,o-cao-come.mp3,O c__ come.
-Frases,Curtas,O gato come,o-gato-come.png,o-gato-come.mp3,O gato co__.
-Frases,Curtas,O gato mia,frase-o-gato-mia.jpg,o-gato-mia.mp3,O g__o mia.
-Frases,Curtas,O Leo bebe leite,frase-o-leo-bebe-leite.jpg,o-leo-bebe-leite.mp3,O Leo bebe l__te.
-Frases,Curtas,O Pai brinca com a Zoe,pai-brinca-com-a-zoe.png,pai-brinca-com-a-zoe.mp3,O p__ brinca com a Z__
-Frases,Curtas,O pato nada,frase-o-pato-nada.jpg,o-pato-nada.mp3,O __to nada.
-Frases,Curtas,O Rui toca no piano,frase-o-rui-toca-no-piano.jpg,o-rui-toca-no-piano.mp3,O Rui toca no p__no.
-Frases,Curtas,O sapo salta,frase-o-sapo-salta.jpg,o-sapo-salta.mp3,O sapo sal__.
+category,group,word,image,sound,question,extra_letters
+Ditongos,ai,caixa,caixa.svg,caixa.mp3,c__xa,
+Ditongos,ai,mais,mais.svg,mais.mp3,M__s,
+Ditongos,ai,rainha,rainha.svg,rainha.mp3,r__nha,
+Ditongos,ão,avião,aviao.svg,aviao.mp3,avi__,ã;í
+Ditongos,ão,balão,balao.png,balao.mp3,bal__,ã;í
+Ditongos,ão,cão,cao.svg,cao.mp3,C__,ã
+Ditongos,ão,chão,chao.svg,chao.mp3,Ch__,ã;í
+Ditongos,ão,coração,coracao.svg,coracao.mp3,corac__,ã;í
+Ditongos,au,aula,aula.svg,aula.mp3,__la,
+Ditongos,au,flauta,flauta.png,flauta.mp3,fl__ta,
+Ditongos,au,mau,mau.svg,mau.mp3,M__,
+Ditongos,ei,leite,leite.svg,leite.mp3,L__te,
+Ditongos,ei,pulseira,pulseira.jpg,pulseira.mp3,puls__ra,
+Ditongos,ei,rei,rei.svg,rei.mp3,R__,
+Ditongos,ei,seis,seis.svg,seis.mp3,S__s,
+Ditongos,eu,céu,ceu.svg,ceu.mp3,C__,é
+Ditongos,iu,caiu,caiu.png,caiu.mp3,ca__,
+Ditongos,ões,limões,limoes.svg,limoes.mp3,lim__s,á;õ;
+Ditongos,oi,dois,dois.svg,dois.mp3,d__s,
+Ditongos,oi,noite,noite.svg,noite.mp3,n__te,
+Ditongos,oi,oito,oito.png,oito.mp3,__to,
+Ditongos,ou,cenoura,cenoura.png,cenoura.mp3,cen__ra,
+Ditongos,ou,ouriço,ourico.jpg,ourico.mp3,__riço,
+Ditongos,p,partiu,partiu.jpg,pariu.mp3,part__,
+Ditongos,p,pica-pau,pica-pau.jpg,pica-pau.mp3,pica-p__,
+Ditongos,ui,Rui,rui.jpg,rui.mp3,R__,
+Palavras,de,dedo,dedo.jpg,dedo.mp3,d_do,
+Palavras,el,anel,anel.jpg,anel.mp3,an__,l;m
+Palavras,lu,lula,lula.jpg,lula.mp3,__la,l;m
+Palavras,m,macaco,macaco.png,macaco.mp3,m_caco,
+Palavras,m,mãe,mae.svg,mae.mp3,M__,ã;í
+Palavras,m,mala,mala2.png,mala.mp3,m_la,
+Palavras,m,mama,mama.png,mama.mp3,Mam_,
+Palavras,m,mão,mao.svg,mao.mp3,M__,ã;é
+Palavras,m,mapa,palavra-mapa.jpg,mapa.mp3,ma__,p;t
+Palavras,m,mar,mar.png,mar.mp3,__r,l;m;p
+Palavras,m,mel,mel.jpg,mel.mp3,m__,l;p;t
+Palavras,m,menina,palavra-menina.jpg,menina.mp3,m_nina,
+Palavras,m,menino,palavra-menino.jpg,menino.mp3,m_nino,
+Palavras,m,mesa,palavra-mesa.jpg,mesa.mp3,m_sa,
+Palavras,m,meu,meu.svg,meu.mp3,M__,
+Palavras,m,mimo,mimo.png,mimo.mp3,mi__,m
+Palavras,m,morcego,morcego.png,morcego.mp3,__rcego,m
+Palavras,m,mota,mota.png,mota.mp3,m_ta,
+Palavras,b,banana,palavra-banana.jpg,banana.mp3,b_nana,
+Palavras,p,panela,palavra-panela.jpg,panela.mp3,p_nela,
+Palavras,t,tapete,tapete.png,tapete.mp3,t_pete,
+Palavras,t,tomate,palavra-tomate.jpg,tomate.mp3,t_mate,
+Palavras,ol,sol,sol.jpg,sol.mp3,s__,l
+Palavras,o,ovos,ovos.png,ovos.mp3,_v_s,
+Palavras,p,pai,pai.svg,pai.mp3,P__,
+Palavras,p,pão,pao.svg,pao.mp3,P__,ã;á;é
+Palavras,p,pato,pato.png,pato.mp3,__to,p
+Palavras,p,pau,pau.svg,pau.mp3,P__,
+Palavras,p,pé,pe.png,pe.mp3,p_,é
+Palavras,p,peixe,peixe.svg,peixe.mp3,P__xe,
+Palavras,p,pião,piao.png,piao.mp3,P_ão,
+Palavras,p,pneu,pneu.png,pneu.mp3,PN__,
+Palavras,p,tapete,tapete.png,tapete.mp3,ta__te,p
+Palavras,pi,apito,apito.png,apito.mp3,a__to,p
+Palavras,b,boca,palavra-boca.jpg,boca.mp3,b_ca,
+Palavras,b,bola,palavra-bola.jpg,bola.mp3,b_la,
+Palavras,c,cama,cama.png,cama.mp3,ca__,m
+Palavras,d,dado,palavra-dado.jpg,dado.mp3,d_do,
+Palavras,d,dedo,dedo.jpg,dedo.mp3,d_do,
+Palavras,g,gato,palavra-gato.jpg,gato.mp3,g_to,
+Palavras,l,lata,lata.jpg,lata.mp3,l_ta,
+Palavras,l,lupa,lupa.jpg,lupa.mp3,l_pa,
+Palavras,p,pato,pato.png,pato.mp3,p_to,
+Palavras,p,pote,palavra-pote.jpg,pote.mp3,p_te,
+Palavras,s,sapo,palavra-sapo.jpg,sapo.mp3,s_po,
+Palavras,t,taça,taca.jpg,taca.mp3,__ça,p;t
+Palavras,t,tigre,tigre.png,tigre.mp3,__gre,p;t
+Palavras,a,azul,azul.jpg,azul.mp3,_zul,
+Frases,Curtas,A Ana nada,frase-a-ana-nada.jpg,a-ana-nada.mp3,A Ana na__.,d;t;
+Frases,Curtas,A avó vê a lua,frase-a-avo-ve-a-lua.jpg,a-avo-ve-a-lua.mp3,A avó vê a l__.,
+Frases,Curtas,A bola cai no chão,frase-a-bola-cai-no-chao.jpg,a-bola-cai-no-chao.mp3,A b_la c_i no ch_o.,ã;á;é
+Frases,Curtas,A bola salta,frase-a-bola-rola.jpg,a-bola-salta.mp3,A bo__ salta.,l;p;t
+Frases,Curtas,A mãe dá a mão,a-mae-da-a-mao.png,a-mae-da-a-mao.mp3,A mãe d_ a mão.,á;é
+Frases,Curtas,A menina pula,frase-a-menina-pula.jpg,a-menina-pula.mp3,A menin_ pula.,
+Frases,Curtas,A Rita lê,frase-a-rita-le.jpg,a-rita-le.mp3,A R__a lê.,p;t
+Frases,Curtas,O Dino bebe,o-dino-bebe.jpg,o-dino-bebe.mp3,O Dino b_be.,
+Frases,Curtas,O cão come,frase-o-cao-come.jpg,o-cao-come.mp3,O c__ come.,ã;é
+Frases,Curtas,O gato come,o-gato-come.png,o-gato-come.mp3,O gato co__.,m;p;t
+Frases,Curtas,O gato mia,frase-o-gato-mia.jpg,o-gato-mia.mp3,O g__o mia.,p;t
+Frases,Curtas,O Leo bebe leite,frase-o-leo-bebe-leite.jpg,o-leo-bebe-leite.mp3,O Leo bebe l__te.,
+Frases,Curtas,O Pai brinca com a Zoe,pai-brinca-com-a-zoe.png,pai-brinca-com-a-zoe.mp3,O p__ brinca com a Z__,
+Frases,Curtas,O pato nada,frase-o-pato-nada.jpg,o-pato-nada.mp3,O __to nada.,p;t
+Frases,Curtas,O Rui toca no piano,frase-o-rui-toca-no-piano.jpg,o-rui-toca-no-piano.mp3,O Rui toca no p__no.,
+Frases,Curtas,O sapo salta,frase-o-sapo-salta.jpg,o-sapo-salta.mp3,O sapo sal__.,p;t

@@ -22,7 +22,6 @@ async function load() {
     const cats = [...new Set(words.map((x) => x.category))];
     category = cats.includes("Ditongos") ? "Ditongos" : cats[0] || "all";
     renderFilters();
-    renderVowels();
     show();
   } catch (e) {
     $("count").textContent =
@@ -76,6 +75,7 @@ function parseCSV(t) {
         image: at(r, "image", 2).trim(),
         sound: at(r, "sound", 3).trim(),
         question: at(r, "question", 4).trim(),
+        extraLetters: (at(r, "extra_letters") || at(r, "letters")).trim(),
       };
     })
     .filter((x) => x.word);
@@ -132,12 +132,25 @@ function renderFilters() {
       : `${category}${group === "all" ? "" : " · " + group}`;
   $("sidebarTitle").textContent = "Aprender";
 }
-function renderVowels() {
-  const chars = ["a", "ã", "á", "e", "é", "i", "í", "o", "õ", "ó", "u", "ú","L","M","T","P"];
+function renderLetters(x) {
+  // The five plain vowels are always available. Extra letters are configured
+  // per CSV row in extra_letters, separated by semicolons or spaces.
+  const base = ["a", "e", "i", "o", "u"];
+  const extras = (x?.extraLetters || "")
+    .split(/[;\\s]+/)
+    .filter(Boolean)
+    .flatMap((token) => [...token.toLocaleLowerCase("pt-PT")]);
+  const seen = new Set();
+  const chars = [...base, ...extras].filter((c) => {
+    const key = c.toLocaleLowerCase("pt-PT");
+    if (seen.has(key)) return false;
+    seen.add(key);
+    return true;
+  });
   $("vowels").innerHTML = chars
     .map(
       (c) =>
-        `<button class="vowel" data-v="${c}" aria-label="Letra ${c}">${c}</button>`,
+        `<button class="vowel" data-v="${esc(c)}" aria-label="Letra ${esc(c)}">${esc(c)}</button>`,
     )
     .join("");
   document
@@ -179,6 +192,7 @@ function show(play = true) {
     $("count").textContent = "Sem cartões neste grupo";
     $("picture").hidden = true;
     $("prompt").textContent = "";
+    renderLetters(null);
     return;
   }
   idx = Math.max(0, Math.min(idx, a.length - 1));
@@ -193,6 +207,7 @@ function show(play = true) {
     picture.alt = "";
     picture.hidden = true;
   }
+  renderLetters(x);
   const q = x.question || "__";
   $("prompt").textContent = revealed ? x.word : completedPrompt(q);
   $("answer").textContent = revealed ? "Muito bem! " + x.word : "";
