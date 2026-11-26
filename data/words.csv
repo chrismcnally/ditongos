@@ -25,8 +25,8 @@ Ditongos,ou,ouriço,ourico.jpg,ourico.mp3,__riço
 Ditongos,p,partiu,partiu.jpg,pariu.mp3,part__
 Ditongos,p,pica-pau,pica-pau.jpg,pica-pau.mp3,pica-p__
 Ditongos,ui,Rui,rui.jpg,rui.mp3,R__
+Palavras,b,banana,palavra-banana.jpg,banana.mp3,b_nana
 Palavras,de,dedo,dedo.jpg,dedo.mp3,d_do
-Palavras,é,pé,pe.png,pe.mp3,p_
 Palavras,el,anel,anel.jpg,anel.mp3,an__
 Palavras,lu,lula,lula.jpg,lula.mp3,__la
 Palavras,m,macaco,macaco.png,macaco.mp3,m_caco
@@ -45,16 +45,14 @@ Palavras,m,meu,meu.svg,meu.mp3,M__
 Palavras,m,mimo,mimo.png,mimo.mp3,mi__
 Palavras,m,morcego,morcego.png,morcego.mp3,__rcego
 Palavras,m,mota,mota.png,mota.mp3,m_ta
-Palavras,Maiores,banana,palavra-banana.jpg,banana.mp3,b_nana
-Palavras,Maiores,panela,palavra-panela.jpg,panela.mp3,p_nela
-Palavras,Maiores,tapete,tapete.png,tapete.mp3,t_pete
-Palavras,Maiores,tomate,palavra-tomate.jpg,tomate.mp3,t_mate
-Palavras,ol,sol,sol.jpg,sol.mp3,s__
 Palavras,o,ovos,ovos.png,ovos.mp3,_v_s
+Palavras,ol,sol,sol.jpg,sol.mp3,s__
 Palavras,p,pai,pai.svg,pai.mp3,P__
+Palavras,p,panela,palavra-panela.jpg,panela.mp3,p_nela
 Palavras,p,pão,pao.svg,pao.mp3,P__
 Palavras,p,pato,pato.png,pato.mp3,__to
 Palavras,p,pau,pau.svg,pau.mp3,P__
+Palavras,p,pé,pe.png,pe.mp3,p_
 Palavras,p,peixe,peixe.svg,peixe.mp3,P__xe
 Palavras,p,pião,piao.png,piao.mp3,P_ão
 Palavras,p,pneu,pneu.png,pneu.mp3,PN__
@@ -71,6 +69,8 @@ Palavras,Simples,lupa,lupa.jpg,lupa.mp3,l_pa
 Palavras,Simples,pato,pato.png,pato.mp3,p_to
 Palavras,Simples,pote,palavra-pote.jpg,pote.mp3,p_te
 Palavras,Simples,sapo,palavra-sapo.jpg,sapo.mp3,s_po
+Palavras,t,tapete,tapete.png,tapete.mp3,t_pete
+Palavras,t,tomate,palavra-tomate.jpg,tomate.mp3,t_mate
 Palavras,ta,taça,taca.jpg,taca.mp3,__ça
 Palavras,ti,tigre,tigre.png,tigre.mp3,__gre
 Palavras,ul,azul,azul.jpg,azul.mp3,az__
@@ -81,8 +81,8 @@ Frases,Curtas,A bola salta,frase-a-bola-rola.jpg,a-bola-salta.mp3,A bo__ salta.
 Frases,Curtas,A mãe dá a mão,a-mae-da-a-mao.png,a-mae-da-a-mao.mp3,A mãe d_ a mão.
 Frases,Curtas,A menina pula,frase-a-menina-pula.jpg,a-menina-pula.mp3,A menin_ pula.
 Frases,Curtas,A Rita lê,frase-a-rita-le.jpg,a-rita-le.mp3,A R__a lê.
-Frases,Curtas,O Dino bebe,o-dino-bebe.jpg,o-dino-bebe.mp3,O Dino b_be.
 Frases,Curtas,O cão come,frase-o-cao-come.jpg,o-cao-come.mp3,O c__ come.
+Frases,Curtas,O Dino bebe,o-dino-bebe.jpg,o-dino-bebe.mp3,O Dino b_be.
 Frases,Curtas,O gato come,o-gato-come.png,o-gato-come.mp3,O gato co__.
 Frases,Curtas,O gato mia,frase-o-gato-mia.jpg,o-gato-mia.mp3,O g__o mia.
 Frases,Curtas,O Leo bebe leite,frase-o-leo-bebe-leite.jpg,o-leo-bebe-leite.mp3,O Leo bebe l__te.
