@@ -30,15 +30,14 @@ English,p,Pop,pop.png,Pop.mp3,P__,p
 English,p,poop,poop.png,poop.mp3,p__p,p
 English,p,pool,pool.png,pool.mp3,___l,p
 English,p,foot,foot.png,foot.mp3,f__t,
-English,i,ian,ian.png,ian.mp3,I_n,
+English,i,ian,Ian.png,ian.mp3,I_n,
 English,p,pet,pet.png,pet.mp3,__t,p
 English,p,pen,pen.png,pen.mp3,__n,p
 English,p,pink,pink.png,pink.mp3,p_nk
-English,b,book,book2.png,book.mp3,__t,b
 English,m,milk,milk2.png,milk.mp3,__lk,m
 English,m,moon,moon.png,moon.mp3,__lk,m
 English,m,mop,mop.png,mop.mp3,m_p,
-English,t,ten,ten.png,ten.mp3,___l,t
+English,t,ten,ten.png,ten.mp3,t_n,t
 English,t,toe,toe.png,toe.mp3,t_e,t
 English,t,tree,tree.png,tree.mp3,tr__,
 English,d,doll,doll.png,doll.mp3,d_ll,
@@ -48,6 +47,7 @@ English,b,bag,bag.png,bag.mp3,b_g,
 English,b,big,big.png,big.mp3,b_g,
 English,b,ball,ball.png,ball.mp3,b_ll,
 English,b,bike,bike.png,bike.mp3,b_ke,
+English,b,book,book2.png,book.mp3,b__k,
 English,b,bus,bus2.png,bus.mp3,b_s,
 English,h,hat,hat2.png,hat.mp3,h_t,
 English,k,kiss,kiss.png,kiss.mp3,ki__,s
